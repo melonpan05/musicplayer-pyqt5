@@ -1,2 +1,2 @@
 # musicplayer-pyqt5
-<h1> Music player with pyqt5 (unfinished) </h1>
+<h1> Musicplayer with pyqt5 </h1>
